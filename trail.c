@@ -1,5 +1,5 @@
 int main(){
-	int a = 5;
+	int a = 50;
 	printf(%d,a);
 	return 0;
 }
